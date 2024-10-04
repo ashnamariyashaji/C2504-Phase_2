@@ -1,0 +1,17 @@
+﻿<Window x:Class="Example14Project.SolidWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Example14Project"
+        mc:Ignorable="d"
+        Title="Solid Brush" Height="450" Width="800" Closing="Window_Closing">
+    <Canvas>
+        <Rectangle Height="143" Canvas.Left="128" Stroke="Black" Canvas.Top="102" Width="217" HorizontalAlignment="Left" VerticalAlignment="Center" Fill="Aqua">
+
+        </Rectangle>
+
+        <Ellipse Height="179" Canvas.Left="417" Stroke="Black" Canvas.Top="88" Width="171" HorizontalAlignment="Center" VerticalAlignment="Top" Fill="BlueViolet"/>
+
+    </Canvas>
+</Window>

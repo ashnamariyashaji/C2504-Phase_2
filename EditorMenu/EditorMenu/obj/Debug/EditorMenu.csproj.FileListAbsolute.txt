@@ -1,0 +1,15 @@
+C:\Users\2021510\source\repos\EditorMenu\EditorMenu\bin\Debug\EditorMenu.exe.config
+C:\Users\2021510\source\repos\EditorMenu\EditorMenu\bin\Debug\EditorMenu.exe
+C:\Users\2021510\source\repos\EditorMenu\EditorMenu\bin\Debug\EditorMenu.pdb
+C:\Users\2021510\source\repos\EditorMenu\EditorMenu\obj\Debug\EditorMenu.csproj.AssemblyReference.cache
+C:\Users\2021510\source\repos\EditorMenu\EditorMenu\obj\Debug\MainWindow.g.cs
+C:\Users\2021510\source\repos\EditorMenu\EditorMenu\obj\Debug\App.g.cs
+C:\Users\2021510\source\repos\EditorMenu\EditorMenu\obj\Debug\EditorMenu_MarkupCompile.cache
+C:\Users\2021510\source\repos\EditorMenu\EditorMenu\obj\Debug\EditorMenu_MarkupCompile.lref
+C:\Users\2021510\source\repos\EditorMenu\EditorMenu\obj\Debug\MainWindow.baml
+C:\Users\2021510\source\repos\EditorMenu\EditorMenu\obj\Debug\EditorMenu.g.resources
+C:\Users\2021510\source\repos\EditorMenu\EditorMenu\obj\Debug\EditorMenu.Properties.Resources.resources
+C:\Users\2021510\source\repos\EditorMenu\EditorMenu\obj\Debug\EditorMenu.csproj.GenerateResource.cache
+C:\Users\2021510\source\repos\EditorMenu\EditorMenu\obj\Debug\EditorMenu.csproj.CoreCompileInputs.cache
+C:\Users\2021510\source\repos\EditorMenu\EditorMenu\obj\Debug\EditorMenu.exe
+C:\Users\2021510\source\repos\EditorMenu\EditorMenu\obj\Debug\EditorMenu.pdb

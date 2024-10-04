@@ -1,0 +1,10 @@
+C:\Users\2021510\source\repos\Example2Project\Example2Project\bin\Debug\Example2Project.exe.config
+C:\Users\2021510\source\repos\Example2Project\Example2Project\bin\Debug\Example2Project.exe
+C:\Users\2021510\source\repos\Example2Project\Example2Project\bin\Debug\Example2Project.pdb
+C:\Users\2021510\source\repos\Example2Project\Example2Project\obj\Debug\Example2Project.csproj.AssemblyReference.cache
+C:\Users\2021510\source\repos\Example2Project\Example2Project\obj\Debug\Example2Project.EditorApp.resources
+C:\Users\2021510\source\repos\Example2Project\Example2Project\obj\Debug\Example2Project.Properties.Resources.resources
+C:\Users\2021510\source\repos\Example2Project\Example2Project\obj\Debug\Example2Project.csproj.GenerateResource.cache
+C:\Users\2021510\source\repos\Example2Project\Example2Project\obj\Debug\Example2Project.csproj.CoreCompileInputs.cache
+C:\Users\2021510\source\repos\Example2Project\Example2Project\obj\Debug\Example2Project.exe
+C:\Users\2021510\source\repos\Example2Project\Example2Project\obj\Debug\Example2Project.pdb

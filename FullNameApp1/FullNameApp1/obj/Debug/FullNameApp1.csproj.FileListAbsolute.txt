@@ -1,0 +1,17 @@
+C:\Users\2021510\source\repos\FullNameApp1\FullNameApp1\obj\Debug\FullNameApp1.csproj.AssemblyReference.cache
+C:\Users\2021510\source\repos\FullNameApp1\FullNameApp1\obj\Debug\FullNameWindow.g.cs
+C:\Users\2021510\source\repos\FullNameApp1\FullNameApp1\obj\Debug\App.g.cs
+C:\Users\2021510\source\repos\FullNameApp1\FullNameApp1\obj\Debug\FullNameApp1_MarkupCompile.cache
+C:\Users\2021510\source\repos\FullNameApp1\FullNameApp1\obj\Debug\FullNameApp1_MarkupCompile.lref
+C:\Users\2021510\source\repos\FullNameApp1\FullNameApp1\bin\Debug\FullNameApp1.exe.config
+C:\Users\2021510\source\repos\FullNameApp1\FullNameApp1\bin\Debug\FullNameApp1.exe
+C:\Users\2021510\source\repos\FullNameApp1\FullNameApp1\bin\Debug\FullNameApp1.pdb
+C:\Users\2021510\source\repos\FullNameApp1\FullNameApp1\obj\Debug\EditFullNameWindow.g.cs
+C:\Users\2021510\source\repos\FullNameApp1\FullNameApp1\obj\Debug\FullNameWindow.baml
+C:\Users\2021510\source\repos\FullNameApp1\FullNameApp1\obj\Debug\EditFullNameWindow.baml
+C:\Users\2021510\source\repos\FullNameApp1\FullNameApp1\obj\Debug\FullNameApp1.g.resources
+C:\Users\2021510\source\repos\FullNameApp1\FullNameApp1\obj\Debug\FullNameApp1.Properties.Resources.resources
+C:\Users\2021510\source\repos\FullNameApp1\FullNameApp1\obj\Debug\FullNameApp1.csproj.GenerateResource.cache
+C:\Users\2021510\source\repos\FullNameApp1\FullNameApp1\obj\Debug\FullNameApp1.csproj.CoreCompileInputs.cache
+C:\Users\2021510\source\repos\FullNameApp1\FullNameApp1\obj\Debug\FullNameApp1.exe
+C:\Users\2021510\source\repos\FullNameApp1\FullNameApp1\obj\Debug\FullNameApp1.pdb

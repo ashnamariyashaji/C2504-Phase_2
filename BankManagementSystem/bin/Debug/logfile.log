@@ -1,0 +1,27 @@
+2024-10-06 16:26:07,468 [1] ERROR BankManagementSystem.Logger - Account Not Found , Please input valid account number
+2024-10-07 07:16:48,697 [1] INFO  BankManagementSystem.Logger - An account with acoount number 10001 has been created successfully
+2024-10-07 07:17:00,250 [1] INFO  BankManagementSystem.Logger - Account 10001 is updated successfully
+2024-10-07 07:17:18,727 [1] INFO  BankManagementSystem.Logger - Deposited 1000 rupees Successfully to account 10001
+2024-10-07 07:17:34,597 [1] INFO  BankManagementSystem.Logger - Withdrawed 500 rupees Successfully from account 10001
+2024-10-07 14:22:58,979 [1] INFO  BankManagementSystem.Logger - An account with acoount number 353535 has been created successfully
+2024-10-07 14:23:09,090 [1] INFO  BankManagementSystem.Logger - Account 353535 is marked as deleted successfully
+2024-10-07 16:18:34,716 [1] INFO  BankManagementSystem.Logger - An account with acoount number 100001 has been created successfully
+2024-10-07 16:23:05,904 [1] INFO  BankManagementSystem.Logger - Deposited 100000 rupees Successfully to account 1234
+2024-10-07 16:36:24,088 [1] INFO  BankManagementSystem.Logger - Deposited 10000 rupees Successfully to account 1234
+2024-10-07 16:59:42,792 [1] INFO  BankManagementSystem.Logger - Deposited 10000 rupees Successfully to account 1234
+2024-10-07 17:04:07,671 [1] INFO  BankManagementSystem.Logger - Deposited 1000 rupees Successfully to account 1234
+2024-10-07 17:11:28,943 [1] INFO  BankManagementSystem.Logger - Deposited 10000 rupees Successfully to account 1234
+2024-10-07 17:18:25,113 [1] INFO  BankManagementSystem.Logger - Deposited 1000 rupees Successfully to account 1234
+2024-10-07 17:29:31,619 [1] INFO  BankManagementSystem.Logger - Deposited 2000 rupees Successfully to account 1234
+2024-10-07 17:34:56,043 [1] INFO  BankManagementSystem.Logger - Deposited 10000 rupees Successfully to account 1234
+2024-10-07 20:36:35,720 [1] INFO  BankManagementSystem.Logger - An account with acoount number 101 has been created successfully
+2024-10-07 20:37:31,508 [1] INFO  BankManagementSystem.Logger - An account with acoount number 201 has been created successfully
+2024-10-07 20:37:53,646 [1] INFO  BankManagementSystem.Logger - Deposited 10000 rupees Successfully to account 1234
+2024-10-07 20:40:33,695 [1] INFO  BankManagementSystem.Logger - An account with acoount number 303 has been created successfully
+2024-10-07 20:43:07,987 [1] INFO  BankManagementSystem.Logger - An account with acoount number 303 has been created successfully
+2024-10-07 20:54:34,482 [1] INFO  BankManagementSystem.Logger - An account with acoount number 303 has been created successfully
+2024-10-07 20:54:58,890 [1] INFO  BankManagementSystem.Logger - Deposited 1000 rupees Successfully to account 1234
+2024-10-07 20:55:19,775 [1] INFO  BankManagementSystem.Logger - Withdrawed 100 rupees Successfully from account 1234
+2024-10-07 22:42:35,230 [1] INFO  BankManagementSystem.Logger - An account with acoount number 303 has been created successfully
+2024-10-07 22:45:36,369 [1] INFO  BankManagementSystem.Logger - Deposited 2500 rupees Successfully to account 12345
+2024-10-07 22:46:00,277 [1] INFO  BankManagementSystem.Logger - Withdrawed 100 rupees Successfully from account 12345
